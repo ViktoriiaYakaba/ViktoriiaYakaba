@@ -8,6 +8,5 @@
 
 [![My Skills](https://skillicons.dev/icons?i=cpp,css,html,sass,js,react,redux,express,nodejs,mongodb,postman,figma,github,vscode,&theme=dark&perline=10)](https://skillicons.dev)
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ViktoriiaYakaba&hide=stars,contribs&show_icons=true&theme=dracula)](https://github.com/ViktoriiaYakaba/github-README.md) 
 
 
