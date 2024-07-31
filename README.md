@@ -1,4 +1,4 @@
-## Hi everyone! I'm Viktoriia - Junior Frnont End Developer <img src="https://em-content.zobj.net/source/telegram/386/woman-technologist_1f469-200d-1f4bb.webp" alt="woman-technologist" width="40" height="40" />
+## Hi everyone! I'm Viktoriia - Junior Front End Developer 👩‍💻
 
 ## About me
 
