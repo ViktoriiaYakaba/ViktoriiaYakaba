@@ -6,7 +6,7 @@
 
 ### 🚀💻 Knowledge and Tools
 
-[![My Skills](https://skillicons.dev/icons?i=cpp,css,html,sass,js,react,redux,express,nodejs,mongodb,firebase,postman,figma,github,vscode,&theme=dark&perline=10)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=cpp,css,html,sass,tailwind,js,react,redux,express,nodejs,mongodb,firebase,postman,figma,github,vscode,&theme=dark&perline=10)](https://skillicons.dev)
 
 
 
